@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantillaDecoCompo", "PlantillaDecoCompo\PlantillaDecoCompo.csproj", "{345CB782-8DCF-4B80-8525-510D228FB389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345CB782-8DCF-4B80-8525-510D228FB389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345CB782-8DCF-4B80-8525-510D228FB389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345CB782-8DCF-4B80-8525-510D228FB389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345CB782-8DCF-4B80-8525-510D228FB389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {051128E8-0063-40BA-BFDC-76C2DD86762A}
+	EndGlobalSection
+EndGlobal
